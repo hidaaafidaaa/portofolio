@@ -1,0 +1,18 @@
+.kontak input,
+.kontak textarea {
+    display: block;
+    margin: 0.5rem 0;
+    padding: 0.5rem;
+    width: 100%;
+    max-width: 300px;
+}
+
+.kontak {
+    display: flex;
+    justify-content: space-between;
+}
+
+.maps {
+    display: flex;
+    justify-content: space-between;
+}
